@@ -1,0 +1,14 @@
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.csprojAssemblyReference.cache
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\MainWindow.baml
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\MainWindow.g.cs
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\App.g.cs
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger_MarkupCompile.cache
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.g.resources
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.Properties.Resources.resources
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.csproj.GenerateResource.cache
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.csproj.CoreCompileInputs.cache
+C:\Users\airop\source\repos\Trigger\Trigger\bin\Debug\Trigger.exe.config
+C:\Users\airop\source\repos\Trigger\Trigger\bin\Debug\Trigger.exe
+C:\Users\airop\source\repos\Trigger\Trigger\bin\Debug\Trigger.pdb
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.exe
+C:\Users\airop\source\repos\Trigger\Trigger\obj\Debug\Trigger.pdb
