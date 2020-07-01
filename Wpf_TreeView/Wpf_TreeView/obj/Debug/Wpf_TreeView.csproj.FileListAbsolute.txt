@@ -1,0 +1,15 @@
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\bin\Debug\Wpf_TreeView.exe.config
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\bin\Debug\Wpf_TreeView.exe
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\bin\Debug\Wpf_TreeView.pdb
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.csprojAssemblyReference.cache
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\App.g.cs
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView_MarkupCompile.cache
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView_MarkupCompile.lref
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\MainWindow.baml
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.g.resources
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.Properties.Resources.resources
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.csproj.GenerateResource.cache
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.exe
+C:\Users\airop\source\repos\Wpf_TreeView\Wpf_TreeView\obj\Debug\Wpf_TreeView.pdb
